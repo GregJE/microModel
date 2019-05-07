@@ -1,5 +1,6 @@
 # microModel
-### Greg Evans - 2018
+#### MATLAB/Octave (.m) Script
+#### Greg Evans - 2018
 
 ## microModel:
 Calculates and Represents the diaphragm deformation in a microphone, given a acoustic pressure and tension force. This excludes the electrostatic interaction. Deformation is imposed as zero on boundaries.
